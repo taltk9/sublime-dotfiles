@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"bold_folder_labels": true,
+	"font_size": 9.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ensure_newline_at_eof_on_save": false,
+	"trim_trailing_white_space_on_save": true
+}
