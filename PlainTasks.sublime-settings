@@ -1,5 +1,10 @@
 {
 	"date_format": "(%d/%m/%y %H:%M)",
 	"archive_name": "Arquivado:", // make sure it is the unique project name within your todo files
-	"draw_indent_guides": true
+	"draw_indent_guides": true,
+
+	// "color_scheme": "Packages/PlainTasks/tasks.hidden-tmTheme"
+	// "color_scheme": "Packages/PlainTasks/tasks-dark.hidden-tmTheme"
+	"color_scheme": "Packages/PlainTasks/tasks-gray.hidden-tmTheme"
+	// "color_scheme": "Packages/PlainTasks/tasks-solarized-light.hidden-tmTheme"
 }
